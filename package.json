@@ -1,0 +1,27 @@
+{
+  "name": "scmasy",
+  "version": "1.0.0",
+  "description": "ScMaSy is a set of reusable components that helps an educative organization or a work sapce.",
+  "main": "server/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matias-pierobon/ScMaSy.git"
+  },
+  "keywords": [
+    "School",
+    "Managment",
+    "Virtual",
+    "Classrooms",
+    "Social",
+    "Network"
+  ],
+  "author": "Matías Pierobón Marcos <matias.pierobonm@gmail.com> (https://matias-pierobon.github.io/)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/matias-pierobon/ScMaSy/issues"
+  },
+  "homepage": "https://github.com/matias-pierobon/ScMaSy#readme"
+}
